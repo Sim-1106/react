@@ -16,6 +16,9 @@ function App() {
 
   return (
     <div className='App'>
+      <div className="title-nav">
+        <h4>React blog</h4>
+      </div>
       <Router />
     </div>
   );
